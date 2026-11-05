@@ -1,0 +1,30 @@
+[
+    {
+        "transaction_id": 1,
+        "product_name": "fan",
+        "quantity_sold": 2,
+        "unit_price": 4.0,
+        "total_amount": 8.0
+    },
+    {
+        "transaction_id": 2,
+        "product_name": "pillow",
+        "quantity_sold": 5,
+        "unit_price": 14.0,
+        "total_amount": 70.0
+    },
+    {
+        "transaction_id": 3,
+        "product_name": "water",
+        "quantity_sold": 8,
+        "unit_price": 20.0,
+        "total_amount": 160.0
+    },
+    {
+        "transaction_id": 4,
+        "product_name": "Pencil",
+        "quantity_sold": 20,
+        "unit_price": 30.0,
+        "total_amount": 600.0
+    }
+]

@@ -1,0 +1,2 @@
+# This project uses built-in Python standard libraries only (json, os).
+# No external dependencies or pip packages are required.

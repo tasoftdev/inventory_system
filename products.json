@@ -1,0 +1,16 @@
+[
+    {
+        "generated_product_id": 1,
+        "name": "water",
+        "category": "hydration",
+        "price": 20.0,
+        "quantity": 82
+    },
+    {
+        "generated_product_id": 2,
+        "name": "Pencil",
+        "category": "School",
+        "price": 30.0,
+        "quantity": 10
+    }
+]
